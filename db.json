@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "email": "123@123.123",
+      "password": "123456",
+      "role": "postulant",
+      "id": 1,
+      "name": "Bruce Wayne",
+      "skills": "Soy el mejor programador de Javascript",
+      "experience": "En la tienda de mi jefe PEPE",
+      "cv": ""
+    },
+    {
+      "email": "123@gmail.com",
+      "password": "123456",
+      "role": "company",
+      "id": 2
+    }
+  ],
+  "companies": [],
+  "jobs": [],
+  "applications": []
+}
